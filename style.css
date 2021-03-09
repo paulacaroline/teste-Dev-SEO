@@ -206,7 +206,7 @@ pre {
 
     nav {
         align-items: baseline !important;
-        position: fixed !important;
+        position: absolute !important;
         backdrop-filter: blur(9px);
         width: -webkit-fill-available;
     }
